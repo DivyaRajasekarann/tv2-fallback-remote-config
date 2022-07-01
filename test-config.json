@@ -33,6 +33,8 @@
       "player": "shaka",
       "protocol": "dash",
       "drm": "widevine",
+      "animation": false,
+      "lowEndUI": true,
     },
     "default": {
       "player": "shaka",
